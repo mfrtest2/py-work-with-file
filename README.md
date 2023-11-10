@@ -1,5 +1,5 @@
 # Work with files 
-
+//
 Implement function `create_report` 
 which will make a report using data from the market after a working day. 
 
